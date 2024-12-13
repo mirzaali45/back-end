@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "emai": "john@coba.com"
+    },
+    {
+        "id": 2,
+        "name": "Johnia",
+        "emai": "johnia@coba.com"
+    },
+    {
+        "id": 3,
+        "name": "Johniauw",
+        "emai": "johniauw@coba.com"
+    }
+]

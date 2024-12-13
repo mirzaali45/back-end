@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "John", "email": "john@coba.com" },
+  { "id": 2, "name": "Johnia", "email": "johnia@coba.com" },
+  { "id": 3, "name": "fdsad", "email": "dasd@coba.com" },
+  {
+    "id": 4,
+    "name": "blog-test",
+    "email": "blog@gmail.com",
+    "password": "blog"
+  }
+]
